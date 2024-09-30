@@ -1,4 +1,4 @@
-#preprocessing python file -> showing details
+#preprocessing python file
 import os
 import json
 import pandas as pd
